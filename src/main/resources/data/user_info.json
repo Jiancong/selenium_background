@@ -1,0 +1,197 @@
+{
+  "name": "Moad M.",
+  "location": "Safi, Morocco",
+  "localTime": "4:45",
+  "jobSuccessRate": "76%",
+  "title": "Full Stack Developer",
+  "description": "With 10 years of experience in security and web development. I am a skilled full-stack developer with expertise in HTML, CSS, JavaScript, Python, VueJS. ReactJS. NodeJS, Linux Administration, Python Selenium, Python-Requests, web scraping, MySQL. I have a passion for delivering high-quality and secure code and have A proven track record of successful projects in these technologies. My goal is to provide my clients with reliable and efficient solutions that meet their business needs, Let's work together to bring your ideas to life.",
+  "hourRate": "$25.00/hr",
+  "workHistory": {
+    "completedJobs": 5,
+    "inProgressJobs": 3,
+    "jobs": [
+        {
+            "title": "Amazon Products Scraper",
+            "rank": 4,
+            "range": 2,
+            "feedback": {
+              "rating": 5.0,
+              "comment": "Great work, delivered on time and on budget."
+            },
+            "earnings": "$1K+",
+            "jobType": "Fixed-price"
+        }
+    ]
+  },
+  "scriptingAndAutomation": {
+    "earnings": "$1K+",
+    "jobs": 7,
+    "hours": 2
+  },
+  "allStats": {
+    "totalEarnings": "$1K+",
+    "totalJobs": 10,
+    "totalHours": 2
+  },
+  "hoursPerWeek": "Open to offers",
+  "languages": {
+    "English": "Fluent",
+    "Arabic": "Native or Bilingual",
+    "French": "Conversational"
+  },
+  "verifications": {
+    "email": true,
+    "phone": true,
+    "payment": true,
+    "identity": true
+  },
+  "projectCatalogs": [
+    {
+      "title": "Amazon Products Scraper",
+      "description": "Scraped Amazon products using Python and Selenium",
+      "tags": ["From 5$", "Selenium", "Web Scraping"],
+      "link": "link url",
+      "image": "image url"
+    }
+  ],
+  "employmentHistories": [
+    {
+      "title": "Amazon Products Scraper",
+      "description": "Scraped Amazon products using Python and Selenium",
+      "startDate": "April 2022",
+      "endDate": "Present"
+    },
+    {
+      "title": "Frontend Developer",
+      "description": "Developed frontend of web applications using HTML, CSS, and JavaScript",
+      "startDate": "May 2018",
+      "endDate": "April 2022"
+    }
+  ],
+  "otherExperiences": [
+    {
+      "title": "Software Engineering",
+      "description": "Developed frontend of web applications using HTML, CSS, and JavaScript",
+      "startDate": "May 2017",
+      "endDate": "May 2028"
+    }
+  ],
+  "portfolioInformations": [
+    {
+      "title": "Amazon Products Scraper",
+      "image": "image1 link",
+      "link": "portfolio-1 link"
+    },
+    {
+      "title": "Audios Downloader Bot",
+      "image": "image2 link",
+      "link": "portfolio-2 link"
+    }
+  ],
+  "skillsAndExpertises": {
+    "skills": ["HTML", "CSS", "JavaScript", "Python", "API Integration"],
+    "expertise": ["Web Scraping", "Web Automation", "Data Extraction", "Data Mining", "Data Scraping"],
+    "otherSkills": ["MongoDB, MySQL"]
+  },
+  "portfolioDetails": {
+    "title": "Amazon Products Scraper",
+    "details": "Scraped Amazon products using Python and Selenium",
+    "tags": [
+      "Python",
+      "Selenium",
+      "Web Scraping"
+    ],
+    "links": [
+      "link1",
+      "link2"
+    ],
+    "freelancerName": "Moad M."
+  },
+  "projectDetails": {
+    "title": "You will get responsive html website from xd, figma, psd.sketch, png",
+    "rate": "?? I can't read",
+    "count": "?? I can't read",
+    "images": [
+      "image1 link",
+      "image2 link"
+    ],
+    "details": "Do you need to translate designs from Figma, PSD, XD, Invision, Al, Sketch, PDF, or Zeplin into responsive HTML, CSS, and Bootstrap that will be compatible with all devices",
+    "deliveryTime": "2 days",
+    "numberOfRevisions": "unlimited",
+    "pages": 3,
+    "customAdminPanel": true,
+    "programmingLanguages": ["Python", "CSS", "HTML"],
+    "codingExpertise": ["Web Scraping", "Web Automation", "Data Extraction", "Data Mining", "Data Scraping"],
+    "serviceTiers": [
+        {
+            "title": "Starter",
+            "price": "$5",
+            "deliveryTime": "2 days",
+            "numberOfPages": 3,
+            "numberOfRevisions": "unlimited",
+            "responsiveDesign": true,
+            "customAdminPanel": false
+        },
+        {
+            "title": "Standard",
+            "price": "$8",
+            "deliveryTime": "4 days",
+            "numberOfPages": 5,
+            "numberOfRevisions": "unlimited",
+            "responsiveDesign": true,
+            "customAdminPanel": true
+        },
+        {
+            "title": "Advanced",
+            "price": "$15",
+            "deliveryTime": "6 days",
+            "numberOfPages": 8,
+            "numberOfRevisions": "unlimited",
+            "responsiveDesign": true,
+            "customAdminPanel": true
+        }
+    ],
+    "portfolioLinks": [
+        {
+            "title": "Amazon Products Scraper",
+            "link": "link1"
+        },
+        {
+            "title": "Audios Downloader Bot",
+            "link": "link2"
+        }
+    ],
+    "frequentlyAskedQuestions": [
+      {
+        "question": "What is your hourly rate?",
+        "answer": "$25.00/hr"
+      },
+      {
+        "question": "What is your availability?",
+        "answer": "10 hours per week"
+      },
+      {
+        "question": "What is your experience?",
+        "answer": "10 years of experience in security and web development"
+      }
+    ],
+    "reviews": {
+      "count": 6,
+      "averageRating": 5.0,
+      "ratingBreakdown": {
+        "availability": 5.0,
+        "skills": 6,
+        "deadlines": 5.0,
+        "communication": 5.0,
+        "cooperation": 5.0
+      },
+      "reviews": [
+        {
+          "clientName": "Adam B.",
+          "rating": 5.0,
+          "feedback": "Great work, delivered on time and on budget."
+        }
+      ]
+    }
+  }
+}
