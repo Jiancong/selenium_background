@@ -8,6 +8,8 @@ import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
 
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.InputStream;
 
 @Service
 @RequiredArgsConstructor
@@ -17,8 +19,12 @@ public class UserProfileService {
     public UserProfileResponse getUserProfile() {
         try {
             ObjectMapper objectMapper = new ObjectMapper();
-            File file = new ClassPathResource("/data/user_info.json").getFile();
-            return objectMapper.readValue(file, UserProfileResponse.class);
+            InputStream inputStream = getClass().getResourceAsStream("/data/user_info.json");
+            if (inputStream == null) {
+                throw new FileNotFoundException("Resource not found: /data/user_info.json");
+            }
+            return objectMapper.readValue(inputStream, UserProfileResponse.class);
+
         } catch (Exception e) {
             log.error("Error occurred while reading user profile", e);
         }
