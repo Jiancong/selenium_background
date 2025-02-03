@@ -1,13 +1,12 @@
 package com.bytelancers.selenium.backend.service;
 
-import com.bytelancers.selenium.backend.model.UserProfileResponse;
+import com.bytelancers.selenium.backend.model.request.UserProfileRequest;
+import com.bytelancers.selenium.backend.model.response.UserProfileResponse;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
 
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.InputStream;
 
@@ -30,5 +29,9 @@ public class UserProfileService {
         }
         return new UserProfileResponse();
 
+    }
+
+    public void postUserProfile(UserProfileRequest request) {
+        log.info("postUserProfile created Successfully with reequest: {}", request);
     }
 }

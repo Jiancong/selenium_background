@@ -1,5 +1,6 @@
-package com.bytelancers.selenium.backend.model;
+package com.bytelancers.selenium.backend.model.response;
 
+import com.bytelancers.selenium.backend.model.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
